@@ -22,7 +22,7 @@ import {isSuccess} from 'types/actions';
 
 import {loadStatusesForChannelAndSidebar} from 'actions/status_actions';
 import {addUserToTeam} from 'actions/team_actions';
-import {fetchChannelsAndMembers} from 'actions/channel_actions2';
+import {fetchChannelsAndMembers} from 'actions/channel_actions';
 
 import LocalStorageStore from 'stores/local_storage_store';
 

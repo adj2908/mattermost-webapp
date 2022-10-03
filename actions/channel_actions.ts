@@ -4,7 +4,7 @@
 import {batchActions} from 'redux-batched-actions';
 
 import {UserProfile} from '@mattermost/types/users';
-import {ChannelMembership, ServerChannel} from '@mattermost/types/channels';
+import {Channel, ChannelMembership, ServerChannel} from '@mattermost/types/channels';
 import {Team} from '@mattermost/types/teams';
 import {ServerError} from '@mattermost/types/errors';
 
